@@ -7,6 +7,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 class XsxkApplicationTests {
 
     @Test
+    void testAddStudent() {
+    }
+
+    @Test
     void contextLoads() {
     }
 
